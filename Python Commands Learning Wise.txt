@@ -1,1 +1,5 @@
-print("Your Message") // To print any thing text based.
+Print Related:
+- print("Your Message") // To print any thing text based.
+- Use '' for texts where "" is required within the paragraph. 
+- Use "" for single quotes required within the paragraph. 
+- If you want to use "" or '' for the whole paragraph then use \"dummy\" in code to let compiler know it needs the same quotations. 
