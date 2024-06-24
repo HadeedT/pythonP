@@ -7,3 +7,9 @@ Print Related:
 
 Escape Sequences: 
 - /n for a new line
+
+Variables:
+
+Inputs:
+
+- input()
