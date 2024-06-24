@@ -3,3 +3,7 @@ Print Related:
 - Use '' for texts where "" is required within the paragraph. 
 - Use "" for single quotes required within the paragraph. 
 - If you want to use "" or '' for the whole paragraph then use \"dummy\" in code to let compiler know it needs the same quotations. 
+
+
+Escape Sequences: 
+- /n for a new line
