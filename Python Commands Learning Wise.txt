@@ -13,3 +13,20 @@ Variables:
 Inputs:
 
 - input()
+
+Data types: 
+- Int
+- Bool
+- Float
+- String
+
+Type conversions:
+Typecasting datatype (value)
+
+f strings: 
+f"string value"{any int or float value}"
+
+Presidence:
+PEMDAS () ** * / + -
+
+
