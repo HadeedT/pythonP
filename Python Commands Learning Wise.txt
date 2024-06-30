@@ -30,3 +30,12 @@ Presidence:
 PEMDAS () ** * / + -
 
 
+Conditional Statements : 
+
+pattern.
+
+if (10<me)
+ condition
+else 
+ condition
+
